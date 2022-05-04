@@ -441,6 +441,7 @@ ion-icon {
     .stories-container {
     background-color: inherit;
     border: none;
+    width: 100%;
     }
 
     .posts {
