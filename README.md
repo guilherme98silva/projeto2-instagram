@@ -14,7 +14,7 @@
  
  
 ## 📝 Descrição
-O objetivo é criar uma réplica de uma página do Instagram apresentando elementos como o menu do topo, posts, carrossel de stories e lista de sugestões. Foi feita uma versão para os mobiles usando o media query.
+O objetivo é criar uma réplica de uma página do Instagram apresentando elementos como o menu do topo, posts, carrossel de stories e lista de seguidores. Foi feita uma versão para os mobiles usando o media query.
 
 
 ##  🖥️ Tecnologias
